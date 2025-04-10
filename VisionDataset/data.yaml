@@ -1,0 +1,6 @@
+train: C:/Users/40754/PycharmProjects/DroneDetWithAudio/VisionDataset/train/images
+val: C:/Users/40754/PycharmProjects/DroneDetWithAudio/VisionDataset/valid/images
+test: C:/Users/40754/PycharmProjects/DroneDetWithAudio/VisionDataset/test/images
+
+nc: 1
+names: ['drone']
